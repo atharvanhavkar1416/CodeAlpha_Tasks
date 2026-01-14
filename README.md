@@ -1,9 +1,9 @@
-# 👨‍💻 Atharva Nhavkar | CodeAlpha Internship
+# 👨‍💻 Atharva Nhavkar | Internship Portfolio
 
 <p align="center">
   <b>Java Programming Intern @ CodeAlpha</b><br>
   <i>Focus: Backend Development, Database Management, and System Logic</i><br>
-  December 2025 - January 2026
+  Duration: January 2026
 </p>
 
 ---
