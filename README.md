@@ -1,72 +1,86 @@
-# 🚀 CodeAlpha Internship Portfolio
+# 👨‍💻 Atharva Nhavkar | CodeAlpha Internship
 
-> **Role:** Java Programming Intern  
-> **Company:** [CodeAlpha](https://www.linkedin.com/company/codealpha)  
-> **Duration:** December 2025 - January 2026
-
-Welcome to my project repository! Here you will find the source code for the tasks I successfully completed during my virtual internship. This journey focused on strengthening my backend development skills using **Java**, **JDBC**, and **Oracle Database**.
+<p align="center">
+  <b>Java Programming Intern @ CodeAlpha</b><br>
+  <i>Focus: Backend Development, Database Management, and System Logic</i><br>
+  December 2025 - January 2026
+</p>
 
 ---
 
-## 📂 Project Showcase
+## 📖 About This Repository
+Welcome! This repository contains the source code for the projects I delivered during my virtual internship at **CodeAlpha**. These tasks were instrumental in refining my skills in **Core Java**, **JDBC Architecture**, and **Oracle Database** integration.
 
-### 🏨 Task 4: Hotel Reservation System (Major Project)
-**Status:** ✅ Completed
-> A comprehensive console-based application to manage hotel bookings, room availability, and customer data in real-time.
+---
 
-* **Key Features:**
-    * **Room Search Engine:** Filter rooms by category (Standard, Deluxe, Suite).
-    * **Database Connectivity:** Uses **JDBC** to connect with **Oracle Database** for persistent storage.
-    * **Smart Booking Logic:** Prevents double-booking and updates status instantly.
-    * **Automated Receipts:** Implemented **File I/O** to generate a text-file receipt (`Receipt_101.txt`) for every successful payment.
-* **Tech Stack:** Java (OOP), JDBC, SQL, Oracle 11g/18c XE.
-* [👉 View Source Code](./CODE_ALPHA_T4_HotelReservationSystem)
+## 🔨 Project Showcase
+
+### 📊 Task 1: Student Grade Tracker
+> *A logic-based utility for academic performance analysis.*
+
+A Java application designed to calculate, track, and analyze student grades for educational institutions.
+
+* **✨ Key Features:**
+    * Dynamic array handling for flexible student counts.
+    * Computation engine: Calculates **Average**, **Highest**, and **Lowest** scores instantly.
+    * Robust input validation for error-free execution.
+
+* **🛠️ Tech Stack:** `Core Java` `Arrays` `Scanner Class`
+* [📂 **View Source Code**](./CODE-ALPHA_T1_StudentGradeTracker)
 
 <br>
 
-### 📊 Task 1: Student Grade Tracker
-**Status:** ✅ Completed
-> A utility tool designed to help teachers or administrators track and analyze student performance efficiently.
+### 🏨 Task 4: Hotel Reservation System (Major Project)
+> *A comprehensive backend system handling reservations, cancellations, and persistent data storage.*
 
-* **Key Features:**
-    * Input management for student names and grades.
-    * Statistical analysis: Computes **Average**, **Highest**, and **Lowest** scores.
-    * Error handling for invalid inputs.
-* **Tech Stack:** Core Java, Arrays, Scanner Class.
-* [👉 View Source Code](./CODE-ALPHA_T1_StudentGradeTracker)
+This is a console-based enterprise application that bridges Java logic with a live database.
+
+* **✨ Key Features:**
+    * **Oracle DB Integration:** Stores room and booking data permanently using **JDBC** (no data loss on exit).
+    * **Smart Logic:** Validates room availability and prevents overlapping bookings.
+    * **Automated Receipt Generation:** Uses **File Handling (I/O)** to print a text-file receipt for every successful transaction.
+    * **Room Categories:** Filter functionality for Single, Double, and Suite rooms.
+
+* **🛠️ Tech Stack:** `Java (JDK 17)` `JDBC` `Oracle 11g/18c` `SQL`
+* [📂 **View Source Code**](./CODE_ALPHA_T4_HotelReservationSystem)
 
 ---
 
-## 🛠️ Technologies Used
-| Category | Stack |
+## 💻 Technical Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Language** | Java (JDK 17) |
+| **Primary Language** | Java (Core & Advanced) |
 | **Database** | Oracle Database 11g/18c XE |
-| **Tools** | Eclipse IDE, Git/GitHub |
-| **Concepts** | OOP, JDBC, File Handling, Exception Handling |
+| **Connectivity** | JDBC (Java Database Connectivity) |
+| **Tools** | Eclipse IDE, Git Version Control |
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ Setup & Run Instructions
 
-1.  **Clone the Repository**
+1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/atharvanhavkar1416/CodeAlpha_Tasks.git](https://github.com/atharvanhavkar1416/CodeAlpha_Tasks.git)
     ```
-2.  **Import to IDE**
-    * Open Eclipse/IntelliJ and import the project folder.
-3.  **Setup Database (For Hotel System)**
-    * Run the script inside `database.sql` in your Oracle SQL tool to create the necessary tables.
-    * Update `DBConnection.java` with your Oracle username/password.
-4.  **Run**
-    * Execute `Main.java` to start the application.
+
+2.  **Database Configuration (For Task 4):**
+    * Open the `database.sql` file located in the Hotel System folder.
+    * Execute the script in your Oracle SQL command line.
+    * Update `DBConnection.java` with your own Oracle username and password.
+
+3.  **Execution:**
+    * Import the folder into **Eclipse IDE**.
+    * Run `Main.java` as a Java Application.
 
 ---
 
-## 📬 Connect with Me
+## 🌐 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** [Paste Your LinkedIn Profile Link Here]
 * **GitHub:** [atharvanhavkar1416](https://github.com/atharvanhavkar1416)
 
 ---
-*Developed with ❤️ by Atharva Nhavkar*
+<p align="center">
+  <i>🚀 Developed by Atharva Nhavkar</i>
+</p>
