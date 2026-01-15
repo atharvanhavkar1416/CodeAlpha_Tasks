@@ -77,7 +77,7 @@ This is a console-based enterprise application that bridges Java logic with a li
 
 ## 🌐 Connect with Me
 
-* **LinkedIn:** [Paste Your LinkedIn Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/atharva-nhavkar-388162315/]
 * **GitHub:** [atharvanhavkar1416](https://github.com/atharvanhavkar1416)
 
 ---
