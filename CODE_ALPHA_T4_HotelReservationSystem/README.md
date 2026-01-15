@@ -30,8 +30,17 @@ A console-based Java application to manage hotel bookings, room availability, an
 4.  **Run**
     * Run `Main.java` to start the application.
 
-## 📸 Screenshots
-*(Optional: You can add screenshots of your console output here later)*
+## 📸 Screenshots:-
+## 📸 Project Demonstration
+
+### **System Interface**
+Below is the console output showing the room search, reservation, and cancellation process.
+![Console Output](./CODE_ALPHA_T4_HotelReservationSystem/console_output.png)
+
+### **Automated Receipts**
+The system automatically generates `.txt` receipts for every successful booking using Java File I/O.
+![Generated Receipts](./CODE_ALPHA_T4_HotelReservationSystem/generated_receipts.png)
 
 ## 📄 License
+
 This project is open-source and available for educational purposes.
